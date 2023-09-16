@@ -92,4 +92,20 @@ _settings:_
 ```
 
 > [!IMPORTANT]  
-> After start your project check/setup `.gitignore` file.
+> Before start your project check/setup `.gitignore` file.
+
+##
+
+### Extra
+
+update node
+
+```shell
+nvm install x.x.x
+```
+
+update npm
+
+```shell
+npm install npm@latest
+```
