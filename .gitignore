@@ -1,5 +1,5 @@
-# .vscode
-# node
+.vscode
+node
 node_modules
 *lock.json
 
