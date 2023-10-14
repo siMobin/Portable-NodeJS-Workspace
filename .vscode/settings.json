@@ -1,13 +1,13 @@
 {
   "terminal.integrated.env.windows": {
-    "PATH": "${env:PATH};${workspaceFolder}\\node" //node portable/workspace path
+    "PATH": "${env:PATH};${workspaceFolder}\\node"
   },
   "cSpell.enableFiletypes": ["ignore"],
   "cSpell.words": ["DATEADD", "DATEDIFF", "DATEPART", "fpdf", "Mobin", "SQLEXPRESS", "swiper"],
   "editor.formatOnSave": true,
   "prettier.arrowParens": "avoid",
   "prettier.printWidth": 1000,
-  "[jsonc]": {
+  "[json]": {
     "editor.defaultFormatter": "esbenp.prettier-vscode"
   },
   "[php]": {
