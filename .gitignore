@@ -2,17 +2,12 @@
 node
 node_modules
 *lock.json
+######################
 
-# *.doc
-# Documents
-# *.pdf
-# *.docx
-# FAQ
 # *.txt
-# *.css
-# *.css.map
 # temp
 # temp*.*
 
-# /////////////
+######################
+# ignore itself #
 # .gitignore
