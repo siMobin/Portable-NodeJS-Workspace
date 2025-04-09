@@ -42,23 +42,25 @@ Clone this repository to your local machine:
 
 ```shell
 git clone git@github.com:siMobin/Portable-NodeJS-Workspace.git
+
+git lfs install
+
+git lfs pull
 ```
 
 > [!WARNING]
 > You may need a `ssh` key for that. You can try `HTTPS` then.
 
 > [!IMPORTANT]  
-> Delete `.git` folder before create a new repository using ***[this](https://github.com/siMobin/Portable-NodeJS-Workspace)*** template.
+> Delete `.git` folder before create a new repository using **_[this](https://github.com/siMobin/Portable-NodeJS-Workspace)_** template.
 
-<h1 align="center">OR</h1>
+<h3 align="center">OR</h3>
 
 <h4>Use <img src="https://img.shields.io/badge/Use this template-2ea043?logo=drop-down&logoColor=white&style=for-the-badge" height="25"/> to create an instant repository.</h4>
 
 ##
 
-##
-
-##
+---
 
 ### Setting Up Your Project
 
